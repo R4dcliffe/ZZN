@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/R4dcliffe)<br>
 
 <p align="center">
-  <img src="https://files.catbox.moe/jgf5uj.gif" alt="intro-gif" width="400"/>
+  <video src="https://files.catbox.moe/fjy32d.mp4" autoplay loop muted playsinline width="400" style="border-radius: 8px;"></video>
 </p>
 
 ## 自己紹介
@@ -18,50 +18,15 @@
 - **所在地**：日本・東京・銀座  
 
 ## 使用技術（勉強中）
-
-**プログラミング言語**:  
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20"/>
-<img src="https://img.shields.io/badge/-java-007396?style=flat&logo=java&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-typescript-3178C6?style=flat&logo=typescript&logoColor=white" height="20"/>
-
-**バックエンド**:  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="20"/>
-
-**フロントエンド**:  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/-Canvas.js-0078D4?style=flat&logo=canvas&logoColor=white" height="20"/>
-
-**データベース**:  
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="20"/>
-
-**デプロイメント**:  
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="20"/>
-
-**開発ツール**:  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Termux-1A1D23?style=flat&logo=linux&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Acode-0078D4?style=flat&logo=android&logoColor=white" height="20"/>
-
-**IDE・ツール**:  
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/GitHub_Desktop-000000?style=flat&logo=github&logoColor=white" height="20"/>
-
-**OS**:  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/>
+<!-- Programming badges -->
+...
 
 ## 私のプロジェクト
 * 公開プロジェクトはまだありません（最新情報は [GitHub](https://github.com/R4dcliffe) をご確認ください）
 
 ## 連絡先
 - GitHub: [@R4dcliffe](https://github.com/R4dcliffe)  
-- WhatsApp: [ZZN](https://wa.me/r79828972773)
+- WhatsApp: [ZZN](https://wa.me/79828972773)
 
 ## GitHub ステータス
 
