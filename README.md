@@ -102,7 +102,7 @@
 
 ## 連絡先
 - GitHub: [@R4dcliffe](https://github.com/R4dcliffe)  
-- WhatsApp: [ZZN](https://wa.me/r79828972773)
+- WhatsApp: [ZZN](https://wa.me/79828972773)
 
 ## GitHub ステータス
 
