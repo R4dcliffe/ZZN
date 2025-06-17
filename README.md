@@ -1,7 +1,9 @@
 # こんにちは、ラドクリフ・ゼゼンです 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/R4dcliffe)<br>
+
 <video autoplay loop muted playsinline width="100%">
-  <source src="https://files.catbox.moe/psfe6y.mp4" type="video/mp4">
+  <source src="https://files.catbox.moe/fjy32d.mp4" type="video/mp4">
   お使いのブラウザは動画をサポートしていません。
 </video>
 
@@ -102,7 +104,7 @@
 
 ## 連絡先
 - GitHub: [@R4dcliffe](https://github.com/R4dcliffe)  
-- WhatsApp: [ZZN](https://wa.me/79828972773)
+- WhatsApp: [ZZN](https://wa.me/r79828972773)
 
 ## GitHub ステータス
 
