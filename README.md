@@ -17,6 +17,7 @@
 ---
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages and Tools:</h2>
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
@@ -31,9 +32,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/termux/termux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/canvg/canvg/main/assets/logo.svg" width="40" title="Canvas.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/termux/termux-original.svg" width="40"/>
+</p>
+
+<p align="left">
+  ![Canvas.js](https://img.shields.io/badge/-Canvas.js-0078D4?style=flat&logo=canvas&logoColor=white)
+  ![Acode](https://img.shields.io/badge/Acode-0078D4?style=flat&logo=android&logoColor=white)
 </p>
 
 ---
