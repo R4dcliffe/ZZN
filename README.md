@@ -61,7 +61,7 @@ saya juga memiliki teman berasal dari Indonesia bernama verdyan arda dan kami be
 ---
 
 ## 🚀 Projek Saya
-- 🔧 **WaguriComp** — Bot WhatsApp roleplay ( in progress )  
+- **WaguriComp** — Bot WhatsApp roleplay ( in progress )  
 
 ---
 
@@ -70,5 +70,3 @@ saya juga memiliki teman berasal dari Indonesia bernama verdyan arda dan kami be
 - WhatsApp: [ZZN](https://wa.me/79828972773)
 
 ---
-
-> 🎯 *Saya belajar sesuai minat dan mencoba membangun sesuatu yang bermanfaat.*
