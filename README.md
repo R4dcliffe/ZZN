@@ -1,7 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Halo,+Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Adalah+Seorang+Programmer+Pemula+)](https://github.com/R4dcliffe)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Halo,+Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Adalah+Seorang+Programmer+Pemula+)](https://github.com/R4dcliffe)
 
 <p align="center">
   <img src="https://files.catbox.moe/8kxse7.jpg" width="500" style="border-radius: 16px;" />
+</p>
+
+---
+
+## 🌍 Bahasa yang Saya Kuasai
+
+<p align="left">
+🇯🇵 Jepang &nbsp; | &nbsp; 🇺🇸 Inggris &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🇸🇦 Arab &nbsp; | &nbsp; 🇷🇺 Rusia &nbsp; | &nbsp; 🇳🇱 Belanda  
 </p>
 
 ---
@@ -30,6 +38,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
