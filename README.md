@@ -1,49 +1,48 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hai+Terimakasih;Sudah+Datang+Ke+Bio+Github+Ku++↓)](https://github.com/R4dcliffe)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Halo,+Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Adalah+Seorang+Programmer+Pemula+)](https://github.com/R4dcliffe)
 
 <p align="center">
-<img src="https://files.catbox.moe/8kxse7.jpg" width="500" style="border-radius: 16px;" />
+  <img src="https://files.catbox.moe/8kxse7.jpg" width="500" style="border-radius: 16px;" />
 </p>
 
 ---
 
-## 💫 About Me:
-- **Name:** Syarzz Hanami  
-- **Partner:** Chikkyy  
-- **Hobbies:** Nganggur, Nonton Anime, Listen Music  
-- **Loves:** Atsuko Hakari  
-- **Website:** [syarzznf.github.io](https://syarzznf.github.io/Website/index.html)  
-- **About:** I started coding in NodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
+## 💫 Tentang Saya
+- 💻 Nama: **Syarzz Hanami**
+- 💖 Pasangan: **Chikkyy**
+- 🎧 Hobi: Nonton Anime, Ngoding, Dengerin Musik
+- 💡 Tentang: Saya seorang pemula yang sedang belajar berbagai teknologi web dan backend.
+- 🌐 Website: [syarzznf.github.io](https://syarzznf.github.io/Website/index.html)
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages and Tools:</h2>
+## 🧰 Tools dan Bahasa Pemrograman
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/termux/termux-original.svg" width="40"/>
-</p>
-
-<p align="left">
-  ![Canvas.js](https://img.shields.io/badge/-Canvas.js-0078D4?style=flat&logo=canvas&logoColor=white)
-  ![Acode](https://img.shields.io/badge/Acode-0078D4?style=flat&logo=android&logoColor=white)
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Acode-0078D4?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canvas.js-0078D4?style=flat&logo=canvas&logoColor=white"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Aktivitas GitHub
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
@@ -51,20 +50,20 @@
 ---
 
 ## 🚀 Projek Saya
-- **EmiliaComp**: Sebuah bot WhatsApp dengan fitur-fitur menarik. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)
-- **REST API MyAnimeList**: API untuk mengakses data MyAnimeList. [URL API](https://guracomp.vercel.app/api/mal/)
-- **REST API Canvas Profile**: API untuk membuat gambar profil jpg menggunakan canvas. [URL API](https://guracomp.vercel.app/api/cancas/profile)
-- **REST API Docs**: Dokumentasi untuk melihat cara menggunakan restapi. [DOKUMENTASI](https://guracomp.vercel.app/)
+- 🔧 **EmiliaComp** — Bot WhatsApp penuh fitur. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)  
+- 📦 **MyAnimeList REST API** — Akses data karakter anime. [Coba di sini](https://guracomp.vercel.app/api/mal/)  
+- 🖼️ **Canvas Profile Generator** — Generate profil berbasis gambar. [Coba API](https://guracomp.vercel.app/api/cancas/profile)  
+- 📘 **REST API Docs** — Dokumentasi cara penggunaan REST API. [Lihat Dokumentasi](https://guracomp.vercel.app/)
 
 ---
 
 ## 📬 Kontak
-- **GitHub**: [@R4dcliffe](https://github.com/R4dcliffe)
-- **WhatsApp**: [ZZN](https://wa.me/79828972773)
-- **Instagram**: [@syrff.h](https://www.instagram.com/syrff.h)
-- **TikTok**: [@syrff.h](https://tiktok.com/@syrff.h)
-- **Channel WA**: [Join Channel](https://whatsapp.com/channel/0029VaiZWDR1nozBLLhlUL1y)
+- 📍 GitHub: [@R4dcliffe](https://github.com/R4dcliffe)
+- 💬 WhatsApp: [Chat Saya](https://wa.me/79828972773)
+- 📷 Instagram: [@syrff.h](https://www.instagram.com/syrff.h)
+- 🎵 TikTok: [@syrff.h](https://tiktok.com/@syrff.h)
+- 📢 Channel WA: [Gabung Channel](https://whatsapp.com/channel/0029VaiZWDR1nozBLLhlUL1y)
 
 ---
 
-:page_with_curl: Currently I only study what I like.
+> 🎯 *Saya belajar sesuai minat dan mencoba membangun sesuatu yang bermanfaat.*
