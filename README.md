@@ -10,7 +10,7 @@
 -  Nama: **Radcliffe zezen**
 -  tinggi: **197,5 cm**
 -  tanggal lahir: 11 nov
--  
+-  gender: laki laki
 -  Hobi: Nonton Anime, Ngoding, Dengerin Musik, bersepeda, mengoleksi berbagai jenis barang langka, membaca, bermain game, jalan-jalan
 -  Tentang: Saya seorang pemula yang sedang belajar golang dan saya adalah programer yang berasal dari jepang, tepatnya di Kyoto Jepang, saya juga memiliki minat besar terhadap pembuatan website,bot WhatsApp dan sebagainya.
 
