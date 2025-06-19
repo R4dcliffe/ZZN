@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Halo,+Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Adalah+Seorang+Programmer+Pemula+)](https://github.com/R4dcliffe)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Welcome+to+My+GitHub+Profile!;Nice+to+Meet+You,+I'm+Radcliffe+👋)](https://github.com/R4dcliffe)
 
 <p align="center">
   <img src="https://files.catbox.moe/8kxse7.jpg" width="500" style="border-radius: 16px;" />
@@ -6,28 +6,27 @@
 
 ---
 
-## 💫 Tentang Saya
--  Nama: **Radcliffe zezen**
--  tinggi: **197,5 cm**
--  tanggal lahir: 11 nov
--  gender: laki laki
--  Hobi: Nonton Anime, Ngoding, Dengerin Musik, bersepeda, mengoleksi berbagai jenis barang langka, membaca, bermain game, jalan-jalan
--  Tentang: Saya seorang pemula yang sedang belajar golang dan saya adalah programer yang berasal dari jepang, tepatnya di Kyoto Jepang, saya juga memiliki minat besar terhadap pembuatan website,bot WhatsApp dan sebagainya.
+## 💫 About Me
+- **Name**: Radcliffe Zezen  
+- **Height**: 197.5 cm  
+- **Date of Birth**: November 11  
+- **Gender**: Male  
+- **Hobbies**: Watching anime, coding, listening to music, cycling, collecting rare items, reading, gaming, and traveling  
+- **Bio**: I’m a beginner programmer currently learning Golang. I come from Kyoto, Japan and have a strong interest in web development, WhatsApp bots, and more.
 
-saya juga memiliki teman berasal dari Indonesia bernama verdyan arda dan kami berdua membangun EmiliaComp, EmiliaComp adalah sebuah bot WhatsApp.
+I also have a friend from Indonesia named **Verdyan Arda**. Together, we built **EmiliaComp**, a powerful WhatsApp bot.
 
 ---
 
-## 🌍 Bahasa yang Saya Kuasai
+## 🌍 Languages I Speak
 
 <p align="left">
-🇯🇵 Jepang &nbsp; | &nbsp; 🇺🇸 Inggris &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🇸🇦 Arab &nbsp; | &nbsp; 🇷🇺 Rusia &nbsp; | &nbsp; 🇳🇱 Belanda  
+🇯🇵 Japanese &nbsp; | &nbsp; 🇺🇸 English &nbsp; | &nbsp; 🇮🇩 Indonesian &nbsp; | &nbsp; 🇸🇦 Arabic &nbsp; | &nbsp; 🇷🇺 Russian &nbsp; | &nbsp; 🇳🇱 Dutch  
 </p>
 
 ---
 
-
-## 🧰 Tools dan Bahasa Pemrograman
+## 🧰 Tools & Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -55,20 +54,20 @@ saya juga memiliki teman berasal dari Indonesia bernama verdyan arda dan kami be
 
 ---
 
-## 🐍 Aktivitas GitHub
+## 🐍 GitHub Activity
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🚀 Projek Saya
-- **WaguriComp** — Bot WhatsApp roleplay ( in progress )  
+## 🚀 My Projects
+- **WaguriComp** — WhatsApp Roleplay Bot (In Progress)
 
 ---
 
-## 📬 Kontak
-- GitHub: [@R4dcliffe](https://github.com/R4dcliffe)
-- WhatsApp: [ZZN](https://wa.me/79828972773)
+## 📬 Contact
+- **GitHub**: [@R4dcliffe](https://github.com/R4dcliffe)  
+- **WhatsApp**: [ZZN](https://wa.me/79828972773)
 
 ---
