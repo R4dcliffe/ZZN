@@ -7,11 +7,12 @@
 ---
 
 ## 💫 Tentang Saya
-- 💻 Nama: **Syarzz Hanami**
-- 💖 Pasangan: **Chikkyy**
-- 🎧 Hobi: Nonton Anime, Ngoding, Dengerin Musik
-- 💡 Tentang: Saya seorang pemula yang sedang belajar berbagai teknologi web dan backend.
-- 🌐 Website: [syarzznf.github.io](https://syarzznf.github.io/Website/index.html)
+-  Nama: **Radcliffe zezen**
+-  tinggi: **197,5 cm**
+-  Hobi: Nonton Anime, Ngoding, Dengerin Musik, bersepeda, mengoleksi berbagai jenis barang langka, membaca, bermain game, jalan-jalan
+-  Tentang: Saya seorang pemula yang sedang belajar golang dan saya adalah programer yang berasal dari jepang, tepatnya di Kyoto Jepang, saya juga memiliki minat besar terhadap pembuatan website,bot WhatsApp dan sebagainya.
+
+saya juga memiliki teman berasal dari Indonesia bernama verdyan arda dan kami berdua membangun EmiliaComp, EmiliaComp adalah sebuah bot WhatsApp.
 
 ---
 
@@ -60,19 +61,13 @@
 ---
 
 ## 🚀 Projek Saya
-- 🔧 **EmiliaComp** — Bot WhatsApp penuh fitur. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)  
-- 📦 **MyAnimeList REST API** — Akses data karakter anime. [Coba di sini](https://guracomp.vercel.app/api/mal/)  
-- 🖼️ **Canvas Profile Generator** — Generate profil berbasis gambar. [Coba API](https://guracomp.vercel.app/api/cancas/profile)  
-- 📘 **REST API Docs** — Dokumentasi cara penggunaan REST API. [Lihat Dokumentasi](https://guracomp.vercel.app/)
+- 🔧 **WaguriComp** — Bot WhatsApp roleplay ( in progress )  
 
 ---
 
 ## 📬 Kontak
-- 📍 GitHub: [@R4dcliffe](https://github.com/R4dcliffe)
-- 💬 WhatsApp: [Chat Saya](https://wa.me/79828972773)
-- 📷 Instagram: [@syrff.h](https://www.instagram.com/syrff.h)
-- 🎵 TikTok: [@syrff.h](https://tiktok.com/@syrff.h)
-- 📢 Channel WA: [Gabung Channel](https://whatsapp.com/channel/0029VaiZWDR1nozBLLhlUL1y)
+- GitHub: [@R4dcliffe](https://github.com/R4dcliffe)
+- WhatsApp: [ZZN](https://wa.me/79828972773)
 
 ---
 
