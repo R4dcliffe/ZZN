@@ -6,14 +6,6 @@
 
 ---
 
-## 🌍 Bahasa yang Saya Kuasai
-
-<p align="left">
-🇯🇵 Jepang &nbsp; | &nbsp; 🇺🇸 Inggris &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🇸🇦 Arab &nbsp; | &nbsp; 🇷🇺 Rusia &nbsp; | &nbsp; 🇳🇱 Belanda  
-</p>
-
----
-
 ## 💫 Tentang Saya
 - 💻 Nama: **Syarzz Hanami**
 - 💖 Pasangan: **Chikkyy**
@@ -22,6 +14,15 @@
 - 🌐 Website: [syarzznf.github.io](https://syarzznf.github.io/Website/index.html)
 
 ---
+
+## 🌍 Bahasa yang Saya Kuasai
+
+<p align="left">
+🇯🇵 Jepang &nbsp; | &nbsp; 🇺🇸 Inggris &nbsp; | &nbsp; 🇮🇩 Indonesia &nbsp; | &nbsp; 🇸🇦 Arab &nbsp; | &nbsp; 🇷🇺 Rusia &nbsp; | &nbsp; 🇳🇱 Belanda  
+</p>
+
+---
+
 
 ## 🧰 Tools dan Bahasa Pemrograman
 
