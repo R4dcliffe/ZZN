@@ -26,7 +26,7 @@ I also have a friend from Indonesia named **Verdyan Arda**. Together, we built *
 
 ---
 
-## 🧰 Tools & Programming Languages
+## 🧰 Tools & Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
