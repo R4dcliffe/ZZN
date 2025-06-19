@@ -21,7 +21,7 @@ I also have a friend from Indonesia named **Verdyan Arda**. Together, we built *
 ## 🌍 Languages I Speak
 
 <p align="left">
-🇯🇵 Japanese &nbsp; | &nbsp; 🇺🇸 English &nbsp; | &nbsp; 🇮🇩 Indonesian &nbsp; | &nbsp; 🇸🇦 Arabic &nbsp; | &nbsp; 🇷🇺 Russian &nbsp; | &nbsp; 🇳🇱 Dutch  
+🇯🇵 Japanese &nbsp; &nbsp; 🇺🇸 English &nbsp; &nbsp; 🇮🇩 Indonesian &nbsp; &nbsp; 🇸🇦 Arabic &nbsp; &nbsp; 🇷🇺 Russian &nbsp; &nbsp; 🇳🇱 Dutch  
 </p>
 
 ---
