@@ -71,3 +71,12 @@ I also have a friend from Indonesia named **Verdyan Arda**. Together, we built *
 - **WhatsApp**: [ZZN](https://wa.me/79828972773)
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R4dcliffe&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4dcliffe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+---
